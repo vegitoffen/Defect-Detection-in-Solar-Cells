@@ -4,6 +4,9 @@ The model-training files for our Master thesis: Defect Detection in Solar Cells:
 # Instructions
 The run-files (run.py and CAM.py) currently expect the Data to contain the images and labels from the PVEL-AD and the ELPV datasets as they are provided. As such, drop the PVEL-AD and the ELPV folders directly into the Data folder. Parts of the run files requires functions provided by the datasets (ELPV's elpv_reader.py).
 
+# Requirements
+Requires grad_cam_plus function from gradcam.py in https://github.com/samson6460/tf_keras_gradcamplusplus
+
 # Links
 
 The ELPV dataset and it's functions can be found at: https://github.com/zae-bayern/elpv-dataset <br />
