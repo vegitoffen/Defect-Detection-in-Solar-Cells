@@ -12,3 +12,6 @@ Requires grad_cam_plus function from gradcam.py in https://github.com/samson6460
 The ELPV dataset and it's functions can be found at: https://github.com/zae-bayern/elpv-dataset <br />
 The PVEL-AD dataset is not publically available, but you can request access to the dataset by following the instructions at: https://github.com/binyisu/PVEL-AD
 
+# Authors
+Vegard Helland
+Martin Johansen
